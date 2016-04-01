@@ -1,0 +1,389 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"postgres",
+				"postgres"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "syntax html",
+		"selected_items":
+		[
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"font",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Stevensonc/jruby-getting-started/blueberry-shortcake-36863"
+	],
+	"file_history":
+	[
+		"/C/temp/simple component and controller.js",
+		"/C/Users/Stevensonc/jruby-getting-started/blueberry-shortcake-36863/Gemfile",
+		"/C/Users/Stevensonc/jruby-getting-started/blueberry-shortcake-36863/config/database.yml",
+		"/C/Users/Stevensonc/jruby-getting-started/blueberry-shortcake-36863/public/404.html",
+		"/C/Users/Stevensonc/jruby-getting-started/public/404.html",
+		"/C/Users/Stevensonc/Documents/GitHub/IDG-Login/mydomain.html",
+		"/C/Users/Stevensonc/Documents/GitHub/IDG-Login/README.md",
+		"/C/Users/Stevensonc/Documents/GitHub/MyDomain-Sample/mydomain.html",
+		"/C/Users/Stevensonc/Documents/GitHub/IDG-Login/LICENSE",
+		"/C/Users/Stevensonc/Documents/GitHub/IDG-Login/app.json",
+		"/Z/Charlie/dfpdev/git/cdirectory.txt",
+		"/Z/Charlie/dfpdev/git/zdirectory.txt",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/New Org Jan nineteen/src/triggers/OpportunityAlertNote.trigger",
+		"/C/Users/Stevensonc/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Stevensonc/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Stevensonc/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/C/Users/Stevensonc/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/New Org Jan nineteen/src/objects/Ad_Ops_Availability_Request_Requests__c.object",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/New Org Jan nineteen/New Org Jan nineteen.sublime-settings",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/New Org Jan nineteen/src/triggers/OpportunityAlertNote.trigger-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/New Org Jan nineteen/src/triggers/OpportunityAlertAtt.trigger",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/New Org Jan nineteen/src/triggers/OpportunityAlertAtt.trigger-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/triggers/OpportunityAlertNote.trigger-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/triggers/OpportunityAlertAtt.trigger-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/classes/TestOpportunityAlerts.cls-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/classes/AttachmentAlertClass.cls-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/NEWOrgJanfour.sublime-settings",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Account_Summary_Reports/HP_report_for_Chris_Norman.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Account_Summary_Reports/IBM_Spend_For_Chris_Norman.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Account_Summary_Reports/Microsoft_Spend.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Weekly_tracker.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/xxKeyxOpportunityRepx.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/xxKeyxCoversheetx.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/xxKeyxFinancex.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/xxKeyxFinancexOnline.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/xxkeyxProspectRepx.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/Coversheet_print.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/Events_Report_for_LM.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/Finance_Report_non_Print_Brandsv2.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/Opportunity_Report_print.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/X2011_Sales_Quick_Reports/Prospect_Report_all_brands.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Account_Summary_Reports/YoY_Analysis_Client.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Account_Summary_Reports/Child_Bookings.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Account_Summary_Reports/YoY_Analysis_Agency.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Account_Summary_Reports/YoY_Analysis_Agency_excl_IGS.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Account_Summary_Reports/YoY_Analysis_Client_excl_IGS.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Who_is_selling_to_my_Clients_FY.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Brand_Solution_Revenue_current_FY.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Engagement_Recency_My_Accounts.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/IDG_FQ_Revenue_vs_Target.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Last_7_days_MY_activities.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Last_engagement_date_for_My_Clients.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Accounts_Not_Booked_this_FYear.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Accounts_Not_Booked_this_Quarter.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Longtail_by_Mon_curQ_nxtQ.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Longtail_Last_Month.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Longtail_Month_2.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Longtail_Month_3.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Longtail_Month_4.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Longtail_Month_5.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Longtail_Next_Month.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Longtail_This_Month.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Prospects.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Prospects_owned_by_colleague.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Target_vs_Actual_FY.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Target_vs_Actual_FY_Total.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Clients_Target_vs_Actual_Qtr.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Conversion_Rate.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Ebsta_Meetings.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Engagement_Types.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Engagement_Types_monthly.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Engagements.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_long_tail_unallocated_clients.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Longtail_Bookings.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Longtail_Bookings_with_PFY.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Longtail_clients.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Longtail_Clients_w_out_prospects_book.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Longtail_Engagement_Recency.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Longtail_Prospects.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Lost_Prospects_Reasons.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_meetings_in_the_next_week_mon_fri.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_meetings_last_week_Mon_Fri.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_meetings_next_30_days_after_next_wk.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_meetings_this_week.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Opportunity_Pipeline_IGS.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Opportunity_Pipeline_Local.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Performance_Longtail_Business_Type.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Performance_New_Business_Longtail.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Performance_New_Business_Top_100.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Performance_vs_Target_entire_year.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Prospects_by_Stage_wk_bckts_IGS.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Prospects_by_Stage_wk_bckts_Local.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/My_Top_100_Engagement_Recency.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Next_engagement_date_for_My_Clients.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/QoQ_Clients_and_Longtail.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/QoQ_Clients_and_Longtail_Platform_Split.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Solution_Brand_Revenue_current_FY.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Target_vs_Actual_Ent_Qtr_Total.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Target_vs_Actual_Ent_Qtr_Total_pctge.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/Personal_Tracker_Reports/Who_is_selling_to_my_Clients_CQ.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_Target_Meetings.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_Local_Target_Tracker.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_Local_Win_Tracker.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_non_Target_Meetings.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_PMP_Local_Tracker.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_PMP_Total_Tracker.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_report_by_Rep_and_IGS.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_Total_Target_Tracker.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Q1_Total_Win_Tracker.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Local_Q1.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/FY16_Q1_Dashboard/Local_and_IGS_Q1.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/NEWOrgJanfour/src/reports/unfiled$public/Work_Order_Comparison_with_Opp.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/package.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/reports/X2011_Marcus/CW_Current_Month_Sales.report",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/classes/TestOpportunityAlerts.cls",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/profiles/Admin.profile",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/profiles/Sales Admin 2011 %28General%29 - new ack form.profile",
+		"/C/Users/Stevensonc/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/prodmontwentythird.sublime-settings",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/classes/CallerLogger.cls-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/triggers/Add_Call_Count.trigger-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/classes/PiggyBackController.cls-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/triggers/Randomise.trigger-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/classes/ScriptFlowController.cls-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/classes/test_update_TM_members_withdrawls.cls",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/classes/TNW_Activity_Contact_ControllerExtension.cls-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/classes/test_TNW_Contact_Activity_Page.cls-meta.xml",
+		"/C/Users/Stevensonc/Documents/MavensMate Projects/prodmontwentythird/src/classes/TNW_Activity_Account_ControllerExtension.cls-meta.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\Users\\Stevensonc\\Documents\\MavensMate Projects\\NEWOrgJanfour\\src\\reports\\Account_Summary_Reports",
+			"C:\\Users\\Stevensonc\\Documents\\MavensMate Projects\\NEWOrgJanfour\\src\\reports\\X2011_Sales_Quick_Reports",
+			"C:\\Users\\Stevensonc\\Documents\\MavensMate Projects\\NEWOrgJanfour\\src\\reports\\Account_Summary_Reports",
+			"C:\\Users\\Stevensonc\\Documents\\MavensMate Projects\\NEWOrgJanfour\\src\\reports\\Personal_Tracker_Reports",
+			"C:\\Users\\Stevensonc\\Documents\\MavensMate Projects\\NEWOrgJanfour\\src\\reports\\FY16_Q1_Dashboard",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"                                                                               ",
+			"                                                                                                 ",
+			"\\git",
+			"git\\",
+			"\\git",
+			"Z:\\Charlie\\dfpdev\\git",
+			"Z:\\Charlie\\dfpdev\\git\\googleads-java-lib-master",
+			"C:\\Users\\Stevensonc\\Downloads\\googleads-java-lib-master",
+			"bel>Timeperiod</la",
+			" Frequency Cap Period</labe",
+			"el>AF3 Frequency Cap Period</la",
+			"interv",
+			"el>per</la",
+			"Frequency Cap Interval</lab",
+			">Frequency Cap<",
+			"Frequency Cap",
+			"Frequency Cap num",
+			"<language>en_US</language>",
+			"language",
+			"<language>en_US</language>",
+			"language",
+			"anguage",
+			"language",
+			"<language>en_US</language>",
+			"language",
+			"<enableHistory>true</enableHistory>",
+			"<language>en_US</language>",
+			"language",
+			"active",
+			"<userPermissions>\n        <enabled>true</enabled>\n        <name>ApproveContract</name>\n    </userPermissions>",
+			"booleanfilter",
+			"requests__c",
+			"request__c",
+			"<columns>OWNER.",
+			"OWNER.",
+			"columns>OWNER.",
+			"owner.first_name",
+			"history>true",
+			"<enableHistory>true</enableHistory>",
+			"history",
+			"<trackHistory>true</trackHistory>",
+			"track",
+			"<filterScope>Mine",
+			"mine",
+			">t_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"\\",
+			"",
+			"<enableHistory>true</enableHistory>",
+			"<filterScope>Everything"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ruby heroku postgres.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
