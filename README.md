@@ -2,7 +2,7 @@
 
 A barebones Rails app, which can easily be deployed to Heroku - on Microsoft Windows.
 
-This application support the [Getting Started with Ruby on Heroku (Microsoft Windows)](https://devcenter.heroku.com/articles/getting-started-with-jruby) article - check it out.
+This application support the [Getting Started with Ruby on Heroku (Microsoft Windows)](https://devcenter.heroku.com/articles/getting-started-with-jruby) article - check it out..
 
 ## Deploying to Heroku
 
